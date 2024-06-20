@@ -1,4 +1,4 @@
-## Hi there 👋
+##  MY DATA ANAYTIC PORTFOLIO
 
 Welcome to my Data Analyst Portfolio!
 
